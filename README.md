@@ -1,1 +1,1 @@
-# FYS4220-exercises
+# FYS4220-Exercises
