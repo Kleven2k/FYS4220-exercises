@@ -1,0 +1,23 @@
+# Ignore all .rdr.flock files
+*.rdr.flock
+
+# Ignore Quartus database files in any directory
+db/
+
+# Ignore Quartus project workspace and output files
+*.qws
+*.qpf
+*.qsf
+*.sopcinfo
+*.sof
+*.pof
+*.jdi
+*.rpt
+*.log
+*.cdf
+*.bak
+*.wlf
+
+# Ignore output files directories
+output_files/
+simulation/
